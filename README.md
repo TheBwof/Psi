@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![https://telegram.me/bwof24](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/bwof24)
+[![https://telegram.me/th30neand0nly0ne](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/th30neand0nly0ne)
 [![https://telegram.me/fahimahamed24](https://img.shields.io/badge/Telegram-@fahimahamed24-blue.svg?style=flat-square)](https://telegram.me/fahimahamed24)
 
 </div>
@@ -24,7 +24,7 @@
  [![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/Psi)](https://repl.it/github/Th30neAnd0nly/Psi)
  ### Run on your Local Machine
  * You need to have `Node.js` installed.
- 1. Clone the repo using `git clone https://github.com/Th30neAnd0nly/Psi`
+ 1. Clone the repo using `git clone https://github.com/TheBwof/Psi`
  1. `cd Psi`
  1. `npm install` 
  1. `npm start`
@@ -32,7 +32,7 @@
  1. For seeing the victims data visit `http://localhost:5000/victims`
 ---
 
-#### https://telegra.ph/Hack-Camera-And-Location-Through-Link-06-28-2
+#### https://telegra.ph/Hack-Camera-And-Location-Through-Link-01-09
 
 ## Configuration
  * The `app.js` file contains `config` variable.
@@ -70,7 +70,7 @@ redirectURL: "https://xxxxxxx.xxx"
 
 
 ### Credits
- * [TechChip](https://github.com/techchipnet/CamPhish) (For His Camphish)
+ * [Fahim Ahamed](https://www.facebook.com/fahimahamed24) (For His Camphish)
 
 ### ❤️Supporters❤️
 [![Stargazers repo roster for @th30neand0nly/Psi](https://reporoster.com/stars/dark/Th30neAnd0nly/Psi)](https://github.com/Th30neAnd0nly/Psi/stargazers)
