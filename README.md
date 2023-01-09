@@ -1,12 +1,12 @@
 
-<h1 align='center'>Ψ</h1>
+<h1 align='center'>Fahim Ahamed</h1>
 
 <h2 align='center'>Information Gathering Through Link</h1>
 
 <div align="center">
 
-[![https://telegram.me/th30neand0nly0ne](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/th30neand0nly0ne)
-[![https://telegram.me/th30neand0nly](https://img.shields.io/badge/Telegram-@th30neand0nly-blue.svg?style=flat-square)](https://telegram.me/th30neand0nly)
+[![https://telegram.me/bwof24](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/bwof24)
+[![https://telegram.me/@fahimahamed24](https://img.shields.io/badge/Telegram-@fahimahamed24-blue.svg?style=flat-square)](https://telegram.me/@fahimahamed24)
 
 </div>
 
