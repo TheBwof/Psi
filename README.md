@@ -21,7 +21,7 @@
 <center> <img src=./.github/png.png ></center>
 
 ## How to use
- [![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/Psi)](https://repl.it/github/Th30neAnd0nly/Psi)
+ [![Run on Repl.it](https://repl.it/badge/github/TheBwof/Psi)](https://repl.it/github/TheBwof/Psi)
  ### Run on your Local Machine
  * You need to have `Node.js` installed.
  1. Clone the repo using `git clone https://github.com/TheBwof/Psi`
