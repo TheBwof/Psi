@@ -72,10 +72,8 @@ redirectURL: "https://xxxxxxx.xxx"
 ### Credits
  * [Fahim Ahamed](https://www.facebook.com/fahimahamed24) (For His Camphish)
 
-### ❤️Supporters❤️
-[![Stargazers repo roster for @th30neand0nly/Psi](https://reporoster.com/stars/dark/Th30neAnd0nly/Psi)](https://github.com/Th30neAnd0nly/Psi/stargazers)
-
-[![Forkers repo roster for @th30neand0nly/Psi](https://reporoster.com/forks/dark/Th30neAnd0nly/Psi)](https://github.com/Th30neAnd0nly/Psi/network/members)
+### Supporter😊
+* [Fahad Ahamed](https://www.facebook.com/fahadahamed4) (Brother) 🖤
 
 ## DISCLAIMER
 <p align="center">
